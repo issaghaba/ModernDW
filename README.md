@@ -1,3 +1,4 @@
-# ModernDW
-Workshop and PoC
- 
+ThinkOrSwim
+===========
+
+ThinkScript code for use with ThinkOrSwim
